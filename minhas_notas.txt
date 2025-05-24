@@ -1,0 +1,5 @@
+Hoje comecei a aprender Python.
+Aprendi a usar a função open para arquivos.
+Usei o modo 'w' para criar e escrever.
+Agora estou usando o modo 'a' para adicionar mais frases.
+Gostei de manipular arquivos com Python!
